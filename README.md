@@ -5,14 +5,19 @@ To install Django Music Player, follow these steps:
 
 1. Navigate to the project directory:
   cd Django-MusicPlayer
+
 2 . Create a virtual environment:
   python3 -m venv env
+  
 3. Activate the virtual environment:
   source env/bin/activate
-4. Install the project dependencies:
+
+5. Install the project dependencies:
   pip install -r requirements.txt
+
 5 . Run the server
   python manage.py runserver
+  
 6 . Go to localhost:8000
 Features 📋
 ⚡️ SignUp and SignIn option.
